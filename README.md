@@ -17,4 +17,4 @@ Görselleştirme: Elde edilen bileşenler kullanılarak erkek ve dişi penguenle
 Sonuç
 Bu çalışma sayesinde, çok boyutlu verilerin grafik üzerinde nasıl temsil edilebileceğini ve PCA'in veri setindeki "bilgiyi" ne kadar oranda koruyabildiğini (explained_variance_ratio_) gözlemlemiş olduk.
 
-![penguen_grafiği]("gender_graph.png")
+![penguen_grafiği](gender_graph.png)
